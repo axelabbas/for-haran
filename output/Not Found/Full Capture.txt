@@ -1,0 +1,62 @@
+3095864892
+:Not Found::Illinois:SEATON
+6136066106
+:Not Found::Ontario:Ottawa-Hull
+3858958300
+:Not Found::Utah:PAYSON
+4075423190
+:Not Found:CLEC:Florida:OVIEDO
+3095864892
+:Not Found::Illinois:SEATON
+6629093860
+:Not Found:WIRELESS PROV:Mississippi:TUPELO
+6169796825
+:Not Found:RBOC:Michigan:BATTLE CREEK
+6629093860
+:Not Found:WIRELESS PROV:Mississippi:TUPELO
+6136066106
+:Not Found::Ontario:Ottawa-Hull
+4075423190
+:Not Found:CLEC:Florida:OVIEDO
+3095864892
+:Not Found::Illinois:SEATON
+5875218907
+:Not Found::Alberta:Edmonton
+6136066106
+:Not Found::Ontario:Ottawa-Hull
+3858958300
+:Not Found::Utah:PAYSON
+3095864892
+:Not Found::Illinois:SEATON
+8103699882
+:Not Found:CLEC:Michigan:GOODRICH
+4075423190
+:Not Found:CLEC:Florida:OVIEDO
+6169796825
+:Not Found:RBOC:Michigan:BATTLE CREEK
+6629093860
+:Not Found:WIRELESS PROV:Mississippi:TUPELO
+6169796825
+:Not Found:RBOC:Michigan:BATTLE CREEK
+6513563725
+:Not Found:WIRELESS PROV:Minnesota:TWINCITIES
+6513563725
+:Not Found:WIRELESS PROV:Minnesota:TWINCITIES
+3095864892
+:Not Found::Illinois:SEATON
+6629093860
+:Not Found:WIRELESS PROV:Mississippi:TUPELO
+3397483479
+:Not Found::Massachusetts:MALDEN
+3397483479
+:Not Found::Massachusetts:MALDEN
+8103699882
+:Not Found:CLEC:Michigan:GOODRICH
+3858958300
+:Not Found::Utah:PAYSON
+5875218907
+:Not Found::Alberta:Edmonton
+6169796825
+:Not Found:RBOC:Michigan:BATTLE CREEK
+4075423190
+:Not Found:CLEC:Florida:OVIEDO
